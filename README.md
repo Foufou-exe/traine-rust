@@ -1,6 +1,11 @@
 # 🦀 Learning Rust - Traine Rust
 
+<div align="center">
+
 [EN](./README.md) | [FR](./README.fr.md)
+
+</div>
+
 
 Welcome to this repository dedicated to learning the Rust programming language. This project is structured as a progressive journey, starting from fundamental concepts to advanced topics like concurrency and memory management.
 
