@@ -38,6 +38,7 @@ members = [
     "07_Async_Tokio/exo34",
     "07_Async_Tokio/exo35",
     "07_Async_Tokio/exo36",
-    "XX_Etude_de_Cas/Gestionnaire_de_Bibliotheque",
-    "XX_Etude_de_Cas/Serveur_Chat_Asynchrone",
+    "Etude_de_Cas/Gestionnaire_de_Bibliotheque",
+    "Etude_de_Cas/Serveur_Chat_Asynchrone", 
+    "Project/minigrep",
 ]

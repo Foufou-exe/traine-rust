@@ -1,0 +1,13 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Clap permet de créer des interfaces CLI pro via des Structs
+clap = { version = "4.5.56", features = ["derive"] }
+# Anyhow facilite la gestion des erreurs (remplace les .unwrap())
+anyhow = "1.0.100"
+
+# Colors permet de colorer le texte dans le terminal
+colored = "3.1.1"
