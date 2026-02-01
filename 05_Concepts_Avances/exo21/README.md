@@ -1,9 +1,11 @@
-# Exercice 21 : Les Traits (Interfaces)
+# Exercise 21: Traits
 
-## Objectif
-Définir un comportement commun que plusieurs types peuvent implémenter.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Mot-clé `trait` pour définir des signatures de méthodes.
-*   Implémentation d'un trait pour une structure spécifique (`impl ... for ...`).
-*   Appel des méthodes du trait.
+## Objective
+Define shared behavior for different types.
+
+## Concepts Covered
+- Defining Traits (`trait`).
+- Implementing Traits (`impl MyTrait for MyType`).
+- Trait Bounds (`T: MyTrait`).

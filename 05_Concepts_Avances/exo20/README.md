@@ -1,9 +1,11 @@
-# Exercice 20 : Modules et Visibilité
+# Exercise 20: Generics
 
-## Objectif
-Organiser le code en modules et gérer la visibilité (public/privé).
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Mot-clé `mod` pour définir un module.
-*   Visibilité par défaut : tout est privé.
-*   Mot-clé `pub` pour rendre une fonction ou un module accessible de l'extérieur.
+## Objective
+Write code that works with multiple types.
+
+## Concepts Covered
+- Generic functions (`fn foo<T>`).
+- Generic structs (`struct Point<T>`).
+- Monomorphization (Zero-cost abstraction).

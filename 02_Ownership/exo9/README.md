@@ -1,9 +1,11 @@
-# Exercice 9 : Borrowing (Les Références)
+# Exercise 9: References & Borrowing
 
-## Objectif
-Apprendre à prêter une valeur sans transférer la propriété grâce aux références (Borrowing).
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Le symbole `&` pour créer une référence.
-*   Passage par référence (lecture seule).
-*   La variable originale reste propriétaire des données.
+## Objective
+Use data without taking ownership of it.
+
+## Concepts Covered
+- Immutable references (`&T`).
+- Passing arguments by reference.
+- Read-only access.

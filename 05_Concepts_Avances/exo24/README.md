@@ -1,9 +1,11 @@
-# Exercice 24 : Les Itérateurs
+# Exercise 24: Iterators
 
-## Objectif
-Manipuler des séquences de données de manière fonctionnelle.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `.iter()` : Crée un itérateur sur une collection.
-*   `.map()` : Transforme chaque élément (opération paresseuse/lazy).
-*   `.collect()` : Consomme l'itérateur pour produire une nouvelle collection (ici un `Vec`).
+## Objective
+Process sequences of elements in a functional style.
+
+## Concepts Covered
+- The `Iterator` trait.
+- Adapters: `map`, `filter`.
+- Consumers: `collect`, `sum`.

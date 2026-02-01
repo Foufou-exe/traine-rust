@@ -1,8 +1,11 @@
-# Exercice 23 : Les Closures (Fonctions Anonymes)
+# Exercise 23: Closures
 
-## Objectif
-Créer des fonctions anonymes qui peuvent capturer des variables de leur environnement.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Syntaxe `|paramètres| corps`.
-*   Capture de l'environnement (accès aux variables définies en dehors de la closure).
+## Objective
+Use anonymous functions that capture their environment.
+
+## Concepts Covered
+- Closure syntax (`|args| body`).
+- Capturing variables (borrow vs move).
+- Passing closures as arguments.

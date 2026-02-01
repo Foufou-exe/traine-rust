@@ -1,9 +1,11 @@
-# Exercice 18 : Raccourcis de Gestion d'Erreur (unwrap/expect)
+# Exercise 18: Panic vs Result
 
-## Objectif
-Utiliser les méthodes `unwrap` et `expect` pour récupérer une valeur directement ou faire planter le programme en cas d'erreur.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `unwrap()` : Retourne la valeur ou panique (crash).
-*   `expect("msg")` : Idem, mais avec un message d'erreur personnalisé (préférable).
-*   À utiliser quand on est sûr que l'erreur n'arrivera pas ou pour le prototypage rapide.
+## Objective
+Distinguish between unrecoverable and recoverable errors.
+
+## Concepts Covered
+- `panic!`: Abort execution.
+- `Result<T, E>`: Return an error to the caller.
+- When to use which.

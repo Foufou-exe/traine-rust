@@ -1,10 +1,11 @@
-# Exercice 27 : Les Canaux (Channels)
+# Exercise 27: Channels
 
-## Objectif
-Communiquer entre threads de manière sécurisée par échange de messages.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `mpsc::channel()` : Crée un canal (Multiple Producer, Single Consumer).
-*   `tx` (Transmitter) : Pour envoyer des données.
-*   `rx` (Receiver) : Pour recevoir des données.
-*   `move` : Pour transférer la propriété de `tx` dans le thread.
+## Objective
+Safely communicate between threads.
+
+## Concepts Covered
+- Message passing concurrency.
+- `mpsc` (Multi-Producer, Single-Consumer).
+- Sending and receiving data.

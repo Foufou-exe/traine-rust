@@ -1,10 +1,11 @@
-# Exercice 12 : Les Structures (struct)
+# Exercise 12: Structures
 
-## Objectif
-Apprendre à regrouper plusieurs données liées entre elles sous un même type personnalisé.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Mot-clé `struct`.
-*   Définition de champs nommés.
-*   Instanciation d'une structure.
-*   Accès aux champs avec la notation pointée `.`.
+## Objective
+Define custom data types using structs.
+
+## Concepts Covered
+- Defining fields.
+- Instantiating structs.
+- Tuple structs.

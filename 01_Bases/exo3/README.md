@@ -1,10 +1,11 @@
-# Exercice 3 : Les Fonctions
+# Exercise 3: Data Types
 
-## Objectif
-Apprendre à déclarer et utiliser des fonctions simples, avec paramètres et valeurs de retour.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Mot-clé `fn` pour définir une fonction.
-*   Typage des paramètres (obligatoire en Rust).
-*   Flèche `->` pour indiquer le type de retour.
-*   Retour implicite (dernière expression sans point-virgule).
+## Objective
+Manipulate basic data types provided by Rust.
+
+## Concepts Covered
+- Integers (`i32`) and Floats (`f64`).
+- Booleans (`bool`).
+- Tuples: grouping values of different types.

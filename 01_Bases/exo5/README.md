@@ -1,9 +1,10 @@
-# Exercice 5 : La boucle 'loop'
+# Exercise 5: Control Flow (If/Else)
 
-## Objectif
-Comprendre la boucle infinie `loop`, la plus basique des boucles en Rust.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `loop` : Exécute un bloc de code indéfiniment.
-*   `break` : Permet de sortir de la boucle.
-*   Modification d'une variable compteur à l'intérieur de la boucle.
+## Objective
+Use conditional structures to control the program flow.
+
+## Concepts Covered
+- `if`, `else if`, `else`.
+- Using `if` as an expression (assigning the result to a variable).

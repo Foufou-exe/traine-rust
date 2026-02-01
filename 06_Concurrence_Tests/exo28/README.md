@@ -1,10 +1,11 @@
-# Exercice 28 : Les Tests Unitaires
+# Exercise 28: Unit Tests
 
-## Objectif
-Écrire et exécuter des tests pour vérifier le bon fonctionnement du code.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Attribut `#[cfg(test)]` : Indique que le module sert aux tests.
-*   Attribut `#[test]` : Marque une fonction comme étant un test.
-*   `assert_eq!` : Vérifie l'égalité entre deux valeurs.
-*   Commande : `cargo test` pour lancer les tests.
+## Objective
+Ensure code quality with automated tests.
+
+## Concepts Covered
+- The `#[test]` attribute.
+- Assertion macros (`assert!`, `assert_eq!`).
+- Running tests with `cargo test`.

@@ -1,9 +1,11 @@
-# Exercice 14 : Enums et Pattern Matching
+# Exercise 14: Enumerations
 
-## Objectif
-Utiliser les énumérations pour définir un type pouvant prendre plusieurs formes connues, et gérer ces cas avec `match`.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Mot-clé `enum`.
-*   Expression `match` pour le contrôle de flux.
-*   Exhaustivité du match (tous les cas doivent être gérés).
+## Objective
+Define types that can be one of several variants.
+
+## Concepts Covered
+- Defining Enums.
+- Storing data inside Enum variants.
+- The `match` control flow construct.

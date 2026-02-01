@@ -1,10 +1,11 @@
-# Exercice 2 : Types Scalaires
+# Exercise 2: Variables
 
-## Objectif
-Découvrir les types de données fondamentaux (scalaires) en Rust.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `bool` : Booléens (true/false).
-*   `u32` : Entiers non signés (positifs uniquement).
-*   `char` : Caractères Unicode (4 octets en Rust).
-*   Annotation de type explicite (ex: `: bool`).
+## Objective
+Understand how to declare variables and manage their mutability.
+
+## Concepts Covered
+- `let`: declaring an immutable variable.
+- `mut`: making a variable mutable.
+- Re-assignment restrictions.

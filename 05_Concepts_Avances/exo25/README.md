@@ -1,8 +1,11 @@
-# Exercice 25 : Smart Pointers (Box)
+# Exercise 25: Smart Pointers (Box)
 
-## Objectif
-Utiliser `Box<T>` pour allouer des données sur le tas (Heap) plutôt que sur la pile (Stack). C'est indispensable pour les structures de données récursives.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `Box::new(v)` : Alloue `v` sur le tas et retourne un pointeur.
-*   Structures récursives : Une taille infinie potentielle à la compilation est impossible sur la pile. `Box` a une taille fixe (celle d'un pointeur), ce qui permet de définir des types comme `Liste` qui contient une `Liste`.
+## Objective
+Allocate data on the heap manually.
+
+## Concepts Covered
+- `Box<T>`: The simplest smart pointer.
+- Recursive types (e.g., Linked List).
+- Dereferencing (`*`).

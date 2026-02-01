@@ -1,9 +1,11 @@
-# Exercice 1 : Variables et Mutabilité
+# Exercise 1: Hello World
 
-## Objectif
-Comprendre comment Rust gère les variables et la différence entre les variables immuables (par défaut) et mutables.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Le mot-clé `let` pour déclarer une variable.
-*   Le mot-clé `mut` pour rendre une variable modifiable.
-*   L'immutabilité par défaut en Rust (sécurité).
+## Objective
+Write your first Rust program and understand the basic structure of a project.
+
+## Concepts Covered
+- The `main` function: entry point of the program.
+- The `println!` macro: displaying text to the console.
+- Compilation and execution via `cargo run`.

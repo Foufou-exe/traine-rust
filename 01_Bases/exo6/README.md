@@ -1,9 +1,11 @@
-# Exercice 6 : La boucle 'for'
+# Exercise 6: Loops
 
-## Objectif
-Utiliser la boucle `for` pour itérer sur une collection ou une plage de valeurs.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Boucle `for ... in ...`.
-*   Plages de valeurs (Ranges).
-*   Syntaxes `..` (exclusif) et `..=` (inclusif).
+## Objective
+Repeat code execution using different types of loops.
+
+## Concepts Covered
+- `loop`: Infinite loop.
+- `while`: Conditional loop.
+- `for`: Iteration over a range or collection.

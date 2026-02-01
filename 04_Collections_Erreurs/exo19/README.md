@@ -1,10 +1,11 @@
-# Exercice 19 : Les HashMaps (Dictionnaires)
+# Exercise 19: Error Propagation
 
-## Objectif
-Stocker des paires clé-valeur avec `HashMap`.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Importation `use std::collections::HashMap`.
-*   Insertion `insert(k, v)`.
-*   Suppression `remove(k)`.
-*   Accès `get(k)` qui retourne une `Option`.
+## Objective
+Propagate errors up the call stack efficiently.
+
+## Concepts Covered
+- The `?` operator.
+- Returning `Result` from functions.
+- Chaining fallible operations.

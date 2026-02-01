@@ -1,9 +1,11 @@
-# Exercice 10 : Références Mutables
+# Exercise 10: Mutable References
 
-## Objectif
-Modifier une valeur empruntée grâce aux références mutables.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `&mut` pour créer une référence mutable.
-*   Modification du contenu via la référence.
-*   Restriction : On ne peut avoir qu'une seule référence mutable à la fois (pour éviter les Data Races).
+## Objective
+Modify data via a reference.
+
+## Concepts Covered
+- Mutable references (`&mut T`).
+- The restriction: Only one mutable reference at a time.
+- Preventing data races.

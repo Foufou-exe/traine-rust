@@ -1,10 +1,11 @@
-# Exercice 16 : Les Vecteurs (Vec)
+# Exercise 16: Vectors
 
-## Objectif
-Stocker une liste d'éléments du même type dont la taille peut changer dynamiquement.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `Vec<T>` : Collection dynamique.
-*   `Vec::new()` : Création.
-*   `.push()` : Ajout d'éléments.
-*   Itération sur le vecteur.
+## Objective
+Work with dynamic arrays.
+
+## Concepts Covered
+- Creating vectors (`Vec::new`, `vec![]`).
+- Adding elements (`push`).
+- Iterating and accessing elements.

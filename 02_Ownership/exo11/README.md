@@ -1,9 +1,11 @@
-# Exercice 11 : Lifetimes (Durées de vie)
+# Exercise 11: Slices
 
-## Objectif
-Comprendre comment Rust s'assure que les références sont toujours valides grâce aux annotations de durée de vie (lifetimes).
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Annotations de lifetime `'a`.
-*   Pourquoi elles sont nécessaires quand une fonction retourne une référence.
-*   Lien entre la durée de vie des paramètres et du retour.
+## Objective
+Reference a contiguous sequence of elements in a collection.
+
+## Concepts Covered
+- String slices (`&str`).
+- Array slices (`&[T]`).
+- Efficient access without copying.

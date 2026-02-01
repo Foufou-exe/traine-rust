@@ -1,9 +1,11 @@
-# Exercice 13 : Les Méthodes (impl)
+# Exercise 13: Methods
 
-## Objectif
-Ajouter des comportements (fonctions) à une structure.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Bloc `impl` pour implémenter des méthodes.
-*   Paramètre `&self` pour accéder à l'instance courante.
-*   Appel de méthode avec la syntaxe pointée.
+## Objective
+Attach behavior to your structures.
+
+## Concepts Covered
+- The `impl` block.
+- `self`, `&self`, and `&mut self`.
+- Associated functions (constructors).

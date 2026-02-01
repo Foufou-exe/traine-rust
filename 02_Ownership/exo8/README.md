@@ -1,8 +1,11 @@
-# Exercice 8 : Ownership et Fonctions
+# Exercise 8: Move Semantics
 
-## Objectif
-Comprendre comment l'ownership fonctionne lors du passage de paramètres à une fonction.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Passer une variable à une fonction transfère la propriété (Move), sauf si le type implémente `Copy`.
-*   Utilisation de `.clone()` pour passer une copie et garder l'original.
+## Objective
+Understand what happens when you assign a variable to another.
+
+## Concepts Covered
+- Move: Transfer of ownership (for complex types like `String`).
+- Copy: Duplication of data (for simple types like `i32`).
+- Preventing "Use after move" errors.

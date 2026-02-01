@@ -1,9 +1,11 @@
-# Exercice 22 : Les Génériques
+# Exercise 22: Lifetimes
 
-## Objectif
-Écrire du code flexible qui fonctionne avec plusieurs types de données grâce aux génériques.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Syntaxe `<T>` pour déclarer un type générique.
-*   Utilisation de `T` dans les champs d'une structure.
-*   Le compilateur génère le code spécifique pour chaque type utilisé (Monomorphization).
+## Objective
+Help the compiler validate reference validity.
+
+## Concepts Covered
+- Explicit lifetime annotations (`'a`).
+- Function signatures with lifetimes.
+- Structs holding references.

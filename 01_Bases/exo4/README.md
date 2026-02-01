@@ -1,9 +1,11 @@
-# Exercice 4 : Les Conditions (if/else)
+# Exercise 4: Functions
 
-## Objectif
-Utiliser les structures conditionnelles. En Rust, `if` est une expression, ce qui signifie qu'elle peut retourner une valeur.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Blocs `if` et `else`.
-*   Assignation du résultat d'un `if` à une variable.
-*   Typage fort : la condition doit être strictement un `bool`.
+## Objective
+Learn how to define and call functions with parameters and return values.
+
+## Concepts Covered
+- Function declaration (`fn`).
+- Parameters and type annotations.
+- Implicit return (last expression without semicolon).

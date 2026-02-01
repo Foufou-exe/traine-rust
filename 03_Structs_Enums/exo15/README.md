@@ -1,9 +1,11 @@
-# Exercice 15 : L'Enum Option (Gestion des erreurs)
+# Exercise 15: Option & Match
 
-## Objectif
-Comprendre comment Rust gère l'absence de valeur sans utiliser `null`.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Enum `Option<T>` standard (`Some(T)` ou `None`).
-*   Utilisation de `Option` pour les fonctions pouvant échouer (ex: division par zéro).
-*   Extraction de la valeur avec `match`.
+## Objective
+Handle the presence or absence of a value without `null`.
+
+## Concepts Covered
+- The `Option<T>` enum (`Some` / `None`).
+- Unwrapping values safely with `match`.
+- The `if let` syntax.

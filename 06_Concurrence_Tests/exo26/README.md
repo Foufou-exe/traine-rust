@@ -1,9 +1,11 @@
-# Exercice 26 : Le Multi-threading
+# Exercise 26: Threads
 
-## Objectif
-Exécuter du code en parallèle (simultanément) avec le programme principal.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   `thread::spawn` : Lance un nouveau fil d'exécution.
-*   `handle.join()` : Attend la fin de l'exécution du thread.
-*   Programmation asynchrone basique.
+## Objective
+Execute code in parallel using system threads.
+
+## Concepts Covered
+- Spawning threads (`std::thread::spawn`).
+- Waiting for completion (`join`).
+- Moving ownership into threads (`move` closure).

@@ -16,7 +16,7 @@ impl Vehicule for Voiture {
 }
 
 fn main() {
-    let ma_voiture = Voiture;
+    let ma_voiture: Voiture = Voiture;
     
     // On peut appeler la méthode car Voiture implémente le trait Vehicule
     ma_voiture.vitesse();

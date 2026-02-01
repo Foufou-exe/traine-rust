@@ -1,9 +1,11 @@
-# Exercice 17 : Gestion d'Erreur (Result)
+# Exercise 17: HashMaps
 
-## Objectif
-Gérer les erreurs récupérables avec le type `Result`.
+[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
 
-## Notions Abordées
-*   Enum `Result<T, E>` : `Ok(valeur)` ou `Err(erreur)`.
-*   Méthode `.parse()` qui peut échouer.
-*   Utilisation du `match` pour traiter le succès ou l'échec.
+## Objective
+Store data using key-value pairs.
+
+## Concepts Covered
+- Creating `HashMap`.
+- Inserting and updating values.
+- Handling missing keys (`entry` API).
