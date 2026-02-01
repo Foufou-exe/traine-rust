@@ -1,6 +1,6 @@
 # 🦀 Learning Rust - Traine Rust
 
-[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.fr.md)
+[EN](./README.md) | [FR](./README.fr.md)
 
 Welcome to this repository dedicated to learning the Rust programming language. This project is structured as a progressive journey, starting from fundamental concepts to advanced topics like concurrency and memory management.
 

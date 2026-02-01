@@ -1,5 +1,7 @@
 # 🦀 Apprentissage de Rust - Traine Rust
 
+[EN](./README.md) | [FR](./README.fr.md)
+
 Bienvenue dans ce dépôt dédié à l'apprentissage du langage Rust. Ce projet est structuré comme un parcours progressif, allant des concepts fondamentaux jusqu'aux notions avancées comme la concurrence et la gestion de la mémoire.
 
 Chaque exercice est conçu pour isoler une notion précise, avec des explications détaillées et un code source abondamment commenté en français.
